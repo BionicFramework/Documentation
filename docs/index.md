@@ -14,16 +14,21 @@
 
 # About
 
+<span style="display:block;text-align:center;">[![bionic](images/all-apps.png)](images/all-apps.png)</span>
+
 Bionic is an [Ionic Framework](https://ionicframework.com/) CLI clone for [Blazor](https://blazor.net/) projects.
 
-The goal is to provide an easy, modular, and repeatable way of creating, building, and deploying Blazor projects.
+The goal is to provide an easy, modular, and repeatable way of creating, building, and deploying Blazor projects for any available target platform through the use of Bionic Plugins.
 
 Keep in mind that just like Blazor, this is an **exploration** project. With your help we can make it a reality.
 
 ## Features
 
-- SCSS Style Isolation: Pages and components have their own SCSS file for quick and easy styling.
+<span style="display:block;text-align:center;">[![bionic](images/app-dev.png)](images/app-dev.png)</span>
+
 - Live Reload: Automatically rebuild modified source or SCSS code and hot reload it using [Bionic Monitor](./live-reload).
+- Editor and IDE agnostic: Use your favorite source code editing tool.
+- SCSS Style Isolation: Pages and components have their own SCSS file for quick and easy styling.
 - Component Generation: Quickly generate Blazor pages, layouts, components, and services.
 - Modular Platform Architecture: Project deployment platforms are provided through plugins and isolated within each project.
 - Blast Scripting: Execute a group of commands under a single target name.
@@ -34,7 +39,7 @@ With the introduction of
 [WebAssembly (WASM)](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
 in the browser, it is now possible to use languages other than JavaScript to build amazing web apps that run at near native speed. This means that
 [many languages](https://github.com/mbasso/awesome-wasm)
-can now share code between frontend and backend without having to compromise computation power and typesafety as often happens in the world of JavaScript.
+can now share code between frontend and backend without having to compromise computation power, typesafety and execution speed as often happens in the world of JavaScript.
 
 WebAssembly is maturing and will soon provide more functionality such as Garbage Collection, Multi-Threading, and much more.
 
