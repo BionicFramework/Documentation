@@ -23,7 +23,7 @@ Keep in mind that just like Blazor, this is an **exploration** project. With you
 ## Features
 
 - SCSS Style Isolation: Pages and components have their own SCSS file for quick and easy styling.
-- Hot Rebuild: Automatically rebuild modified source or SCSS code (hot reloading not available, yet).
+- Live Reload: Automatically rebuild modified source or SCSS code and hot reload it using [Bionic Monitor](./live-reload).
 - Component Generation: Quickly generate Blazor pages, layouts, components, and services.
 - Modular Platform Architecture: Project deployment platforms are provided through plugins and isolated within each project.
 - Blast Scripting: Execute a group of commands under a single target name.

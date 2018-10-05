@@ -1,11 +1,11 @@
-site_name: Bionic
-site_url: 'https://bmsantos.github.io/bionic/'
-repo_name: 'bmsantos/bionic'
-repo_url: 'https://github.com/bmsantos/bionic'
+site_name: Bionic Framework
+site_url: 'https://bionicframework.github.io/Documentation/'
+repo_name: 'BionicFramework/Documentation'
+repo_url: 'https://github.com/bionicframework/Documentation'
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/bmsantos'
+      link: 'https://github.com/bionicframework'
     - type: 'youtube'
       link: 'https://www.youtube.com/playlist?list=PLLxOHqHInCELJjnvN_rCKx5pa_53Utjr7'
   disqus: 'bionic-framework'

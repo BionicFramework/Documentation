@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://bmsantos.github.io/bionic/</loc>
+     <loc>https://bionicframework.github.io/Documentation/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/0_install/</loc>
+     <loc>https://bionicframework.github.io/Documentation/0_install/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/blast/</loc>
+     <loc>https://bionicframework.github.io/Documentation/blast/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/commands/</loc>
+     <loc>https://bionicframework.github.io/Documentation/commands/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/getting-started/</loc>
+     <loc>https://bionicframework.github.io/Documentation/getting-started/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/live-reload/</loc>
+     <loc>https://bionicframework.github.io/Documentation/live-reload/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/electron/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/electron/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/0intro/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/0intro/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/android/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/android/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/ios/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/ios/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/0intro/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/0intro/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/accessibility/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/accessibility/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/app/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/app/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/background_task/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/background_task/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/browser/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/browser/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/camera/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/camera/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/clipboard/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/clipboard/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/console/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/console/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/device/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/device/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/filesystem/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/filesystem/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/geolocation/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/geolocation/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/haptics/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/haptics/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/keyboard/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/keyboard/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/modals/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/modals/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/motion/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/motion/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/network/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/network/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/share/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/share/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/splash_screen/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/splash_screen/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/status_bar/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/status_bar/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/storage/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/storage/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/platforms/capacitor/bridge/toast/</loc>
+     <loc>https://bionicframework.github.io/Documentation/platforms/capacitor/bridge/toast/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/tutorials/tutorials/</loc>
+     <loc>https://bionicframework.github.io/Documentation/tutorials/tutorials/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://bmsantos.github.io/bionic/updates/</loc>
+     <loc>https://bionicframework.github.io/Documentation/updates/</loc>
      <lastmod>2018-10-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
