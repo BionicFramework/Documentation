@@ -3,13 +3,13 @@
 ## Bionic has a new home
 #### October 5, 2018
 
-<span style="display:block;text-align:center;"><img src="/images/wasm-powered.png" height="400px"></span>
+<span style="display:block;text-align:center;"><img src="/Documentation/images/wasm-powered.png" height="400px"></span>
 
 Until now Bionic has been more of a proof-of-concept and a personal experiment. Has been more than 11 years since I last coded in C#. What this small experiment as shown is that C# has been significantly modernized to the point that it is now a joy to code with. There are some things that are not yet to my taste (yes, looking at you msbuild config and source code capitalization conventions) but, just like more modern languages (namely Kotlin and Swift), AspNet Core really puts C# at the top of the Industrial level languages and I expect a significant growth in the number of users in the next few years. The fact that AspNet Core can now run in OSX, Linux, Windows and Browser makes it a perfect runtime target for any modern application.
 
 Among other things, this experiment demonstrated that:
 
-- The AspNet Core and specially the Blazor community is vibrant, welcoming and enthusiastic (looking at you Dan Roth and Robin Sue)
+- The AspNet Core and specially the Blazor community is vibrant, welcoming and enthusiastic
 - Blazor applications can be successfully deployed as Web, PWAs, Electron, Android or iOS apps
 - Although never integrated as a Bionic platform plugin, some recent experiments demonstrated that Xamarin will also be another great deployment target for Blazor apps
 - Just like with Ionic Framework, the dotnet CLI provides an excellent mechanism to aid app development and deployment
