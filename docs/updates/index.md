@@ -2,12 +2,13 @@
 
 ## Bionic Monitor Release and demo
 
+#### Published: Sep 23, 2018
+
 Bionic Monitor provides live reloading capability to both Standalone and Hosted Blazor projects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68xYErxxKLQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-The above demo did not make use of Bionic Monitor configuration file but once set it does not require one to pass 
-command line arguments to Bionic Monitor. 
+The above demo did not make use of Bionic Monitor configuration file. This file can be used to set Bionic Monitor default command line arguments to any given project. 
 
 
 ## Bionic 1.0.18 release and PWA demo

@@ -1,5 +1,13 @@
 # What's going on?
 
+## Bionic Monitor covered by Ed Charbeneau's *StateHasChanged* show
+#### October 6, 2018
+
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v319229788" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+You can find the respective post and other Blazor related entries in [Ed's Blog page](https://edcharbeneau.com/blazor-statehaschanged-100618/).
+
+
 ## Bionic has a new home
 #### October 5, 2018
 
