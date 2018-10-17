@@ -13,6 +13,30 @@ Capacitor depends on NodeJS. Please [install](https://nodejs.org/en/download/) o
 v9.5.0
 ```
 
+Capacitor requires ```npx```, a CLI tool installed along with nodejs:
+
+```text
+> npx --version
+9.7.1
+```
+
+If npx is not available then upgrade node to a recent version.
+
+!!! tip
+    If you need to maintain multiple versions of node then [Node Version Manager](https://github.com/creationix/nvm) (```nvm```) may be of help.
+
+Windows users will have to make node commands available through PATH env variable.
+
+### Python
+
+Capacitor also requires Python in order to run some scripts. Bionic was only tested against [Python 2.7](https://www.python.org/downloads/).
+If you are on Windows, please make python executables available in the PATH.
+
+```text
+> python --version
+Python 2.7.15
+```
+
 ### Android Studio
 
 If you intend to target Android in this project, you will need to [download and install Android Studio](https://developer.android.com/studio).

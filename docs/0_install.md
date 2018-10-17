@@ -38,6 +38,15 @@ or, depending on which version you have installed:
 Ruby Sass 3.5.6
 ```
 
+### NuGet
+
+Bionic also requires NuGet to be install. In OSX and Linux, NuGet will be installed along with Mono. On Windows you will have to download the executable and place it in the Windows PATH. You can find NuGet download instructions [here](https://docs.microsoft.com/en-us/nuget/install-nuget-client-tools#nugetexe-cli).
+
+```text
+> nuget
+NuGet Version: 4.7.0.5148
+...
+```
 
 ## Installing Bionic
 
@@ -64,10 +73,24 @@ To update execute:
 Tool 'bionic' was reinstalled with the latest stable version (version '1.0.17').
 ```
 
+If you are on Windows, then the above command will fail. Instead use:
+
+```text
+> dotnet tool update -g bionic
+Tool 'bionic' (version '1.0.25') was successfully uninstalled.
+```
+
 ## Removing Bionic
 
 To remove execute:
 ```text
 > bionic uninstall
 Tool 'bionic' (version '1.0.17') was successfully uninstalled.
+```
+
+If you are on Windows, then the above command will fail. Instead use:
+
+```text
+> dotnet tool uninstall -g bionic
+Tool 'bionic' (version '1.0.25') was successfully uninstalled.
 ```

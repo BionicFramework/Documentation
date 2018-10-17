@@ -372,6 +372,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#nuget" title="NuGet" class="md-nav__link">
+    NuGet
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -961,6 +968,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#nuget" title="NuGet" class="md-nav__link">
+    NuGet
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -1042,6 +1056,14 @@ Ruby Sass 3.5.6
 </pre></div>
 
 
+<h3 id="nuget">NuGet</h3>
+<p>Bionic also requires NuGet to be install. In OSX and Linux, NuGet will be installed along with Mono. On Windows you will have to download the executable and place it in the Windows PATH. You can find NuGet download instructions <a href="https://docs.microsoft.com/en-us/nuget/install-nuget-client-tools#nugetexe-cli">here</a>.</p>
+<div class="codehilite"><pre><span></span>&gt; nuget
+NuGet Version: 4.7.0.5148
+...
+</pre></div>
+
+
 <h2 id="installing-bionic">Installing Bionic</h2>
 <p>Bionic releases are available through <a href="https://www.nuget.org/packages/Bionic">NuGet</a>.</p>
 <p>To install it execute:</p>
@@ -1064,10 +1086,22 @@ Tool &#39;bionic&#39; was reinstalled with the latest stable version (version &#
 </pre></div>
 
 
+<p>If you are on Windows, then the above command will fail. Instead use:</p>
+<div class="codehilite"><pre><span></span>&gt; dotnet tool update -g bionic
+Tool &#39;bionic&#39; (version &#39;1.0.25&#39;) was successfully uninstalled.
+</pre></div>
+
+
 <h2 id="removing-bionic">Removing Bionic</h2>
 <p>To remove execute:</p>
 <div class="codehilite"><pre><span></span>&gt; bionic uninstall
 Tool &#39;bionic&#39; (version &#39;1.0.17&#39;) was successfully uninstalled.
+</pre></div>
+
+
+<p>If you are on Windows, then the above command will fail. Instead use:</p>
+<div class="codehilite"><pre><span></span>&gt; dotnet tool uninstall -g bionic
+Tool &#39;bionic&#39; (version &#39;1.0.25&#39;) was successfully uninstalled.
 </pre></div>
                 
                   
