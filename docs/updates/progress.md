@@ -1,5 +1,14 @@
 # What's going on?
 
+
+## Bionic 1.0.26 - Now also running on Windows and Linux
+#### October 16, 2018
+
+<span style="display:block;text-align:center;">[![bionic](/images/bionic-windows10.png)](/images/bionic-windows10.png)</span>
+
+Bionic for Windows and Linux has officially arrived on 1.0.26 release! If you experice any issues, please report [here](https://github.com/BionicFramework/BionicCLI).
+
+
 ## Bionic Monitor covered by Ed Charbeneau's *StateHasChanged* show
 #### October 6, 2018
 
