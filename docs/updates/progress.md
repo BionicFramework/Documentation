@@ -4,7 +4,7 @@
 ## Bionic 1.0.26 - Now also running on Windows and Linux
 #### October 16, 2018
 
-<span style="display:block;text-align:center;">[![bionic](/images/bionic-windows10.png)](/images/bionic-windows10.png)</span>
+<span style="display:block;text-align:center;">[![bionic](/Documentation/images/bionic-windows10.png)](/Documentation/images/bionic-windows10.png)</span>
 
 Bionic for Windows and Linux has officially arrived on 1.0.26 release! If you experice any issues, please report [here](https://github.com/BionicFramework/BionicCLI).
 
