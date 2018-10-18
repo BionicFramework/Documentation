@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-sudo curl -o /usr/local/bin/nuget.exe https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
+curl -o /usr/local/bin/nuget.exe https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
 
 DEST=/usr/local/bin/nuget
 
-sudo touch $DEST
-sudo chmod 755 $DEST
-sudo chown root:root $DEST
-sudo echo '#!/usr/bin/env bash' > $DEST
-sudo echo 'mono /usr/local/bin/nuget.exe \"$@\"' >> $DEST
+touch $DEST
+chmod 777 $DEST
+echo '#!/usr/bin/env bash' > $DEST
+echo 'mono /usr/local/bin/nuget.exe "$@"' >> $DEST
+chmod 755 $DEST
