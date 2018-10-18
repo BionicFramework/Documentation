@@ -48,6 +48,17 @@ NuGet Version: 4.7.0.5148
 ...
 ```
 
+!!! tip
+    On Ubuntu DO NOT use ```apt install nuget```. This will install version 2.8 and NuGet will not work properly.
+    The current recommended version is 2.7. Bionic Framework provides a [small script](https://raw.githubusercontent.com/BionicFramework/Documentation/master/installers/nuget_linux_installer.sh) to facilitate this installation.
+
+    You can execute the installer from your Linux terminal using:
+
+    ```
+    sudo curl https://raw.githubusercontent.com/BionicFramework/Documentation/master/installers/nuget_linux_installer.sh | bash
+    ```
+
+
 ## Installing Bionic
 
 Bionic releases are available through [NuGet](https://www.nuget.org/packages/Bionic).
