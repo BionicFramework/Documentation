@@ -55,7 +55,7 @@ NuGet Version: 4.7.0.5148
     You can execute the installer from your Linux terminal using:
 
     ```
-    sudo curl https://raw.githubusercontent.com/BionicFramework/Documentation/master/installers/nuget_linux_installer.sh | bash
+    curl https://raw.githubusercontent.com/BionicFramework/Documentation/master/installers/nuget_linux_installer.sh | sudo bash
     ```
 
 
