@@ -7,5 +7,5 @@ DEST=/usr/local/bin/nuget
 sudo touch $DEST
 sudo chmod 755 $DEST
 sudo chown root:root $DEST
-sudo echo "#!/usr/bin/env bash" > $DEST
-sudo echo "mono /usr/local/bin/nuget.exe \"$@\"" >> $DEST
+sudo echo '#!/usr/bin/env bash' > $DEST
+sudo echo 'mono /usr/local/bin/nuget.exe \"$@\"' >> $DEST
