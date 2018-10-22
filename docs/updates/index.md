@@ -1,5 +1,16 @@
 # Videos
 
+## Bionic Framework 1.0.26 - Windows 10 Demo
+
+#### Published: Oct 21, 2018
+
+Bionic 1.0.26 introduces support for both Windows and Linux.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gAUYtWKJGFk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+The above video gives a short update on the current state of Bionic and uses the latest version to demonstrate how a developer can use Bionic in Windows.
+
+
 ## Bionic Monitor Release and demo
 
 #### Published: Sep 23, 2018
