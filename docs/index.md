@@ -20,7 +20,7 @@ Bionic is an [Ionic Framework](https://ionicframework.com/) CLI clone for [Blazo
 
 The goal is to provide an easy, modular, and repeatable way of creating, building, and deploying Blazor projects for any available target platform through the use of Bionic Plugins.
 
-Keep in mind that just like Blazor, this is an **exploration** project. With your help we can make it a reality.
+Feel free to join our **development**. Any help appreciated.
 
 ## Features
 
